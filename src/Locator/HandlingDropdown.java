@@ -13,7 +13,7 @@ import org.openqa.selenium.support.ui.Select;
 
 import com.gargoylesoftware.htmlunit.javascript.background.JavaScriptExecutor;
 
-public class Dropdownlist {
+public class HandlingDropdown {
 
 	public static void main(String[] args) throws InterruptedException {
 		ChromeOptions options=new ChromeOptions();
